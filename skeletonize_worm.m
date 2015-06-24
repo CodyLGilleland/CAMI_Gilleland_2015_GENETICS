@@ -48,7 +48,7 @@ function [end_y, end_x, x, y] = skeletonize_worm(c_elegans)
             end
         end
         
-        % hack, i wonder why this is happening...
+        
         if length(find(skeleton)) == 0,
             end_y = [1];
             end_x=[1];
