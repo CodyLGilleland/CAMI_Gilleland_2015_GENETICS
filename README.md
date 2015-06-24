@@ -28,11 +28,17 @@ For a stand alone demo of the gonad detection algorithm in MATLAB
 3. The program will automatically load the example worm images and detect the gonad locations using the algorithm 'find_gonads.m' on six animals
 
 Example worm image files:
+
 worm_ex1.jpg
+
 worm_ex2.jpg
+
 worm_ex3.jpg
+
 worm_ex4.jpg
+
 worm_ex5.jpg
+
 worm_ex6.jpg
 
 Algorithm:
